@@ -1,4 +1,5 @@
 #Action,Name(Repo),Purpose
+apt,libxinerama-dev,"for suckless programs"
 apt,libx11-dev,"for DWM"
 apt,libxft-dev,"for DWM"
 apt,libxext-dev,"for ST"

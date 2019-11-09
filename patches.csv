@@ -1,0 +1,3 @@
+#Progam,Name,Address
+dwm,fullgaps,https://dwm.suckless.org/patches/fullgaps/dwm-fullgaps-6.2.diff
+st,scrollback,https://st.suckless.org/patches/scrollback/st-scrollback-20190331-21367a0.diff

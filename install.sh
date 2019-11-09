@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-set -x
+
 source ./apt_add.sh 
 source ./ppa_add.sh
 source ./pip_add.sh
