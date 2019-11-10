@@ -21,6 +21,6 @@ gmi_add() {
 	fi
 
 	make -s >/dev/null 2>&1
-	make install -s >/dev/null 2>&1
+	make clean install -s >/dev/null 2>&1
 	cd "$basedir" || return ;
 }
